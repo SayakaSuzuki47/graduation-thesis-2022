@@ -1,5 +1,5 @@
 ﻿# graduation-thesis-2022
- 2021-sayaka.pdfが卒論。  
+ 2021-sayaka.pdfが卒業論文。  
  2022年大学4年生時の卒業論文のソースコード（いずれ最適化する予定）  
  論文データの入っているjsonファイルはKaggelのデータからダウンロードしてくる。  
  arXiv_json ではstep0フォルダに論文のpdfデータをダウンロードする。  
